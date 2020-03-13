@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Charles L.
+email: charlesslewis10@gmail.com
+description: A simple collection of projects.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Charles Lewis
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  job: "Cybersecurity Engineer"
+  bio: "A simple collection of projects."
+  email: charlesslewis10@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
