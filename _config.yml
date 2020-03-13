@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Charles Lewis
+  name: Charles L.
   avatar: leonids-logo.png
   job: "Cybersecurity Engineer"
   bio: "A simple collection of projects."
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: clewis10
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
