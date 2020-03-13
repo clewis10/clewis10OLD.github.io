@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Charles Lewis
-email: charlesslewis10@gmail.com
-description: A collection of projects
-url: http://clewis.cc
-keywords: ["blog", "jekyll", "cyber", "security", "cybersecurity", "charles", "lewis"]
+title: Leonids
+email:
+description: A simple and awesome blog theme powered by jekyll.
+url: # the base hostname & protocol for your site
+keywords: ["blog", "jekyll"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          America/Seattle
+timezone:          Europe/Paris
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Charles Lewis
+  name: Leonids
   avatar: leonids-logo.png
-  job: "Cybersecurity Engineer"
-  bio: "A simple security engineer and producer."
-  email: charlesslewis10@gmail.com
+  job: "A jekyll theme"
+  bio: "A simple and awesome blog theme powered by jekyll."
+  email:
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -48,10 +48,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: clewis10
+  github: #username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: charles-lewis-b2a12a140
+  linkedin: #username
   skype: #username
   xing: #username
   instagram: #username
@@ -62,7 +62,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: charlessssssssss
+  soundcloud: #username
   weibo: #username
   flickr: #username
   500px: #username
