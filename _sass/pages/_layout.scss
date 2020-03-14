@@ -1,6 +1,6 @@
 /* LAYOUT CSS */
 .cover {
-  background-image: url('/img/yso.png');
+  background-image: url('/img/waves.png');
   position: fixed;
   text-align: center;
   width: 100%;
@@ -10,7 +10,7 @@
   @include media-query($small-screen) {
     background-position: center;
     padding: 30px;
-  }
+
   @include media-query($medium-screen) {
     height: 100vh;
     position: initial;
@@ -18,7 +18,7 @@
   }
 }
 .cover-card {
-  color: white;
+  color: $text-color;
   padding: 0 30px;
   .avatar {
     border-radius: 50%;
