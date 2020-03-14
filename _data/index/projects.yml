@@ -1,4 +1,9 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+- name: Collegiate Cyber Defense Competition
+  descr: "CCDC competitions ask student teams to assume administrative and protective duties for an existing “commercial” network while a volunteer red team provides the “external threat” all Internet-based services face and allows the teams to match their defensive skills against live opponents."
   image: pong.png
-  github: https://github.com/renyuanz/leonids
+  website: https://www.nationalccdc.org/
+
+- name: The Spice Hut
+  descr: "Created and maintained the spice hut business website and e-commerce store front."
+  image: pong.png
+  website: https:/thespicehut.com

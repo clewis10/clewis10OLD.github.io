@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: The Spice Hut
+  link: http://www.thespicehut.com/
+  date: September 2016 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: IT Admin
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
+- name: Whatcom Community College
+  link: https://www.whatcom.edu/
+  date: June 2016 - August 2016
   job: Web Assistant
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: Nordstrom
+  link: https://www.nordstrom.com/
+  date: June 2015 - December 2016
+  job: Customer Service
