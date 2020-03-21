@@ -1,21 +1,22 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-  <div id="page">
-    <header class="page-header">
-      <h2>{{ page.title }}</h2>
-    </header>
+{% include head.html %}
 
-    <article class="page-content">
-      test
-    </article>
-
-
-  </div><!-- end page content -->
-
-
-  {% if site.owner.disqus-shortname and page.comments == true %}
-  <div id="disqus_thread"></div>
-  {% include disqus.html %}
-  {% endif %}
+<body>
+  <div class="row">
+    <div class="col s12 m3">
+      <div class="table cover">
+        {% include sidebar.html %}
+      </div>
+    </div>
+    <div class="col s12 m9">
+      <div class="">
+        test
+        {% include footer.html %}
+      </div>
+    </div>
+  </div>
+  {% include js.html %}
+</body>
+</html>

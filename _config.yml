@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/Vancouver
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -51,10 +51,10 @@ owner:
   github: clewis10
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: charles-lewis-b2a12a140
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: charliiieboi
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -62,7 +62,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: charlessssssssss
   weibo: #username
   flickr: #username
   500px: #username
