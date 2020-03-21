@@ -99,3 +99,18 @@
   }
 }
 }
+
+.index{
+  background-image: url('/img/waves.png');
+  -webkit-transform: translate3d(0,0,1px);
+  transform: translate3d(0,0,1px);
+  @include media-query($small-screen) {
+    padding: 50px 30px 0;
+  }
+  @include media-query($medium-screen) {
+    height: 100vh;
+    overflow-y: scroll;
+    position: initial;
+    top: 0;
+  }
+}
