@@ -5,7 +5,7 @@ excerpt: "CCDC Reflection"
 categories: [Academic Literacies]
 comments: true
 image:
-  feature: https://images.pexels.com/photos/950241/pexels-photo-950241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+  feature: https://images.pexels.com/photos/962312/pexels-photo-962312.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
   credit: 
   creditlink: 
 ---
@@ -29,14 +29,14 @@ Concepts to know:
 * Windows / Linux Ooperation Sturcture
 * Firewalls
 * File Shares
-* * SMB
-* * SAMBA
+ * SMB
+ * SAMBA
 
 Tasks to do regularly:
 * Practice Hardening Guides
 * Setting up Wordpress (Linux / Windows)
 * Swapping Services to knew machines
 * Advance Hardening
-* * Eternal Blue
-* * Ticket Rotation
-* * Sticky Keys
+ * Eternal Blue
+ * Ticket Rotation
+ * Sticky Keys
