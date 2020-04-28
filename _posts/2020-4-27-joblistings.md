@@ -16,6 +16,11 @@ Note: I copied the text of the job listing to keep it as a reference in case it 
 
 ### [Information Security Analyst - UW](https://www.glassdoor.com/job-listing/information-security-analyst-university-of-washington-JV_IC1150505_KO0,28_KE29,53.htm?jl=3452980800&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 **University of Washington**
+
+#### Interest
+
+Working for the university would be an interesting place to work at mainly because my professor Eric, has said how UW is heavily cyber attacked due to all the connection they have with the surrounding industries. This job requirements also don't seem to need as much as many other so it would seem as a great place to start. 
+
 The Office of the Chief Information Security Officer (CISO) is hiring an Information Security Analyst to remediate and respond to information security events at the University of Washington; promote and support the secure use of networked servers and desktops by faculty, staff, and students; act as a member of the information security Incident Response team as specified in University policy; participate in the development of new security services for enterprise and workgroup computing; participate and give presentations in professional working groups; advise UW Information Technology and campus computing professionals on information security vulnerabilities, response, and remediation applicable to the Unversity environment; and help support system administration tasks within the Office of the CISO. 
 
 The ideal candidate will have a good understanding of how adversaries think and be able to balance defensive measures with business needs in a way that supports the mission of the University. The candidate should be mindful of assumption of breach, trust boundaries, operations security, principle of least privilege, attack surfaces, and monitoring and detection. 
