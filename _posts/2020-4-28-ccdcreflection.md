@@ -10,6 +10,7 @@ image:
   creditlink: 
 ---
 
+**draft**
 # CCDC Reflection
 
 ### The Coliegate Cyber Defense Competition
