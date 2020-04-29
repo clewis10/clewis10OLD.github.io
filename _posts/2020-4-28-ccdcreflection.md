@@ -30,13 +30,13 @@ Concepts to know:
 * Firewalls
 * File Shares
 * * SMB
-* SAMBA
+* * SAMBA
 
 Tasks to do regularly:
 * Practice Hardening Guides
 * Setting up Wordpress (Linux / Windows)
 * Swapping Services to knew machines
 * Advance Hardening
-* Eternal Blue
-* Ticket Rotation
-* Sticky Keys
+* * Eternal Blue
+* * Ticket Rotation
+* * Sticky Keys

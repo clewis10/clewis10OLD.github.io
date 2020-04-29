@@ -161,3 +161,6 @@ As a Security Engineer in AWS Security you will be responsible for a set of long
 
 <hr/>
 
+### More Jobs
+[Information Security Engineer - Bungie](https://www.glassdoor.com/job-listing/information-security-engineer-bungie-JV_IC1150442_KO0,29_KE30,36.htm?jl=3477645592&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+[Security Sales Engineer - Fortinet](https://www.linkedin.com/jobs/view/security-sales-engineer-at-fortinet-1755976426/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
