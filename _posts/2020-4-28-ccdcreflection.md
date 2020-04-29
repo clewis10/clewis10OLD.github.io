@@ -29,8 +29,8 @@ Concepts to know:
 * Windows / Linux Ooperation Sturcture
 * Firewalls
 * File Shares
- * SMB
- * SAMBA
+* * SMB
+    * SAMBA
 
 Tasks to do regularly:
 * Practice Hardening Guides

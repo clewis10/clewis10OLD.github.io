@@ -17,9 +17,11 @@ Note: I copied the text of the job listing to keep it as a reference in case it 
 ### [Information Security Analyst - UW](https://www.glassdoor.com/job-listing/information-security-analyst-university-of-washington-JV_IC1150505_KO0,28_KE29,53.htm?jl=3452980800&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 **University of Washington**
 
-#### Interest
+#### My Interest
 
 Working for the university would be an interesting place to work at mainly because my professor Eric, has said how UW is heavily cyber attacked due to all the connection they have with the surrounding industries. This job requirements also don't seem to need as much as many other so it would seem as a great place to start. 
+
+#### Job Description
 
 The Office of the Chief Information Security Officer (CISO) is hiring an Information Security Analyst to remediate and respond to information security events at the University of Washington; promote and support the secure use of networked servers and desktops by faculty, staff, and students; act as a member of the information security Incident Response team as specified in University policy; participate in the development of new security services for enterprise and workgroup computing; participate and give presentations in professional working groups; advise UW Information Technology and campus computing professionals on information security vulnerabilities, response, and remediation applicable to the Unversity environment; and help support system administration tasks within the Office of the CISO. 
 
@@ -82,6 +84,13 @@ Equivalent education/experience will substitute for all minimum qualifications e
 
 ### [Information Security Engineer - Google](https://www.glassdoor.com/job-listing/information-security-engineer-google-JV_IC1150505_KO0,29_KE30,36.htm?jl=3503033406&amp;utm_campaign=google_jobs_apply&amp;utm_source=google_jobs_apply&amp;utm_medium=organic)
 **Google**
+
+#### My Interest
+
+This is already starting to get to be where the requirements are almost more than what I have but I have often heard (even from people in HR) to apply for position you might not fully qualify for because they often have other positions they're looking to fill as well. Even with a bit of a mix rep in the security community, I'd love to work for google and be able to work with some of the more advance tech we have in the private sector. 
+
+#### Job Description
+
 **Minimum qualifications:**
 * Bachelor's degree in Computer Science, or a related technical field, or equivalent practical experience. 
 * 2 years of experience in application-level vulnerability testing and code-level security auditing.
@@ -115,6 +124,13 @@ At Google, our users come first, and the Systems Infrastructure team is at the h
 
 ### [Security Engineer, AWS Security](https://www.linkedin.com/jobs/view/security-engineer-aws-security-at-amazon-web-services-aws-1807953450/?utm_campaign=google_jobs_apply&amp;utm_source=google_jobs_apply&amp;utm_medium=organic)
 **Amazon Web Services**
+
+#### My Interest
+
+This is a similar boat to Google. I think it would be a incredible learning experience to work for AWS and help maintain some of the most important cloud infrastructure. AWS is used by a vast majority of the market, I believe it's something like all the other cloud providers combined still have less market share than AWS. This means that AWS has some of the most advanced tech to be able to work with, although it does come with working for a big organization. 
+
+#### Job Description
+
 **Description**
 
 At Amazon Web Services (AWS), Security is our highest priority. The AWS Security team is responsible for the security of services offered by AWS. We are looking for a passionate, innovative, results oriented engineers. AWS Security is responsible for driving innovative enhancements that raise the bar for how AWS employees interact with resources, systems, and data. At AWS' scale, we must invent new security tools to enable system administrators and developers to build rapidly, while maintaining least privileged access. The successful candidate is one who loves working directly with software developers to understand their systems, and dives through data and designs to develop secure solutions that enable developers to operate more quickly. You are passionate about the security of the cloud and you want to solve real business problems. We have a team culture that encourages innovation and we expect team members and management alike to take high degree of ownership for their program vision and execution of ideas. You will have the opportunity to engage with systems that are at the cutting edge of technology. You will work directly with AWS service teams, infrastructure and administrative teams to identify opportunities to improve AWS’ security posture. You will design and build tooling and work with service owners and cutting edge technology to develop innovative solutions to complex technical challenges. You can prioritize well and have a consistent track record of delivery. You can handle multiple competing priorities in a fast-paced environment.
