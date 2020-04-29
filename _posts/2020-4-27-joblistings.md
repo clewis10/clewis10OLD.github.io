@@ -14,7 +14,7 @@ image:
 
 Note: I copied the text of the job listing to keep it as a reference in case it gets taken down.
 
-### [Information Security Analyst - UW](https://www.glassdoor.com/job-listing/information-security-analyst-university-of-washington-JV_IC1150505_KO0,28_KE29,53.htm?jl=3452980800&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+# [Information Security Analyst - UW](https://www.glassdoor.com/job-listing/information-security-analyst-university-of-washington-JV_IC1150505_KO0,28_KE29,53.htm?jl=3452980800&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 **University of Washington**
 
 #### My Interest
@@ -82,7 +82,7 @@ Equivalent education/experience will substitute for all minimum qualifications e
 <hr/>
 
 
-### [Information Security Engineer - Google](https://www.glassdoor.com/job-listing/information-security-engineer-google-JV_IC1150505_KO0,29_KE30,36.htm?jl=3503033406&amp;utm_campaign=google_jobs_apply&amp;utm_source=google_jobs_apply&amp;utm_medium=organic)
+# [Information Security Engineer - Google](https://www.glassdoor.com/job-listing/information-security-engineer-google-JV_IC1150505_KO0,29_KE30,36.htm?jl=3503033406&amp;utm_campaign=google_jobs_apply&amp;utm_source=google_jobs_apply&amp;utm_medium=organic)
 **Google**
 
 #### My Interest
@@ -122,7 +122,7 @@ At Google, our users come first, and the Systems Infrastructure team is at the h
 <hr/>
 
 
-### [Security Engineer, AWS Security](https://www.linkedin.com/jobs/view/security-engineer-aws-security-at-amazon-web-services-aws-1807953450/?utm_campaign=google_jobs_apply&amp;utm_source=google_jobs_apply&amp;utm_medium=organic)
+# [Security Engineer, AWS Security](https://www.linkedin.com/jobs/view/security-engineer-aws-security-at-amazon-web-services-aws-1807953450/?utm_campaign=google_jobs_apply&amp;utm_source=google_jobs_apply&amp;utm_medium=organic)
 **Amazon Web Services**
 
 #### My Interest
