@@ -13,8 +13,7 @@ image:
 ## Interview Question Ideas
 
 
-What are good projects to show you work thru projects?
-	What are some projects I can do now to help show during an interview?
+What are some projects I can do now to help show during an interview?
 
 What kinds of technical questions do you expect an interviewer to know?
 
