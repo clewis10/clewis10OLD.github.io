@@ -12,10 +12,15 @@ image:
 
 ## Interview Question Ideas
 
+What does your organization do and what do you do there?
+
+What are the kinds of tasks that you do day to day?
 
 What are some projects I can do now to help show during an interview?
 
 What kinds of technical questions do you expect an interviewer to know?
+
+With titles like "Cybersecurity Engineer" I'm not exactly sure what to expect to do in those kind of positions. What do those positions generally work on?
 
 How do you suggest getting more and practical experince with cloud infrastructure?
 
@@ -23,6 +28,5 @@ With COVID, what types of things have you had to adapt during the shift to worki
 
 What things, if any, help to have an applicant stand out? (Projects, Certs, Experience)?
 
-What does you organization do and what do you do there?
+What specific tech is your organization using and what would be good to start practicing now? (Cloud tech, packer, etc)
 
-What are the kinds of tasks that you do day to day?
