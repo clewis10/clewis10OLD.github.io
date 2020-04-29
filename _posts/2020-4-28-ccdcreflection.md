@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CCDC Refleection
+title: CCDC Reflection
 excerpt: "CCDC Reflection"
 categories: [Academic Literacies]
 comments: true
