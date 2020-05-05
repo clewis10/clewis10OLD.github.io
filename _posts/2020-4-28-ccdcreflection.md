@@ -14,7 +14,7 @@ image:
 # CCDC Reflection
 
 ### The Coliegate Cyber Defense Competition
-
+<!-- 
 After 4 years of competing in CCDC, I have gained many experiences and knowledge in handling of active incident response with attackers on our network. To give a brief explanation of the Collegiate Cyber Defense Competition to those that might not know, it’s a competition that pits teams of 8 against each other to see who can maintain service uptime and business operations. The competition starts with a scenario where a mock company has been comprised and we must step in to handle the situation why professional penetration testers are attacking all the teams. This last year I got the opportunity to the team captain for Western although with the COVID situation the entire competition was significantly modified. With all that, I would like to reflect on the competition (wildcard vs previous years), important skills, recommendations for preparing and working as the captain. 
 
 ### The Competition
@@ -39,4 +39,4 @@ Tasks to do regularly:
 * Advance Hardening
 * * Eternal Blue
 * * Ticket Rotation
-* * Sticky Keys
+* * Sticky Keys -->
