@@ -9,6 +9,20 @@ image:
   credit: 
   creditlink: 
 ---
+# Interview Questions
+
+### What is your organization? What do they do?
+
+### What are some side projects you would recommend working on for experience? (PiHole, Hack the Box)
+
+### What is some advice you'd give for preparing for an interview for a technical position?
+
+### With the COVID situation, what are some types of things you have had to adapt to during the shift to working remote?
+
+
+
+
+<hr/>
 
 ## Interview Question Ideas
 
