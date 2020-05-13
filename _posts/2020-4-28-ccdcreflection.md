@@ -29,8 +29,8 @@ Getting ready for the competition must be given adequate time and it’s extreme
 * Windows / Linux Operation Structure
 * Firewalls
 * File Shares
-* * SMB
-* * SAMBA
+   * SMB
+   * SAMBA
 
 #### Tasks to do regularly:
 * Practice Hardening Guides
@@ -38,12 +38,14 @@ Getting ready for the competition must be given adequate time and it’s extreme
 * Swapping Services to knew machines
 * Advance Hardening
    * Eternal Blue
-* * Ticket Rotation
-* * Sticky Keys
+   * Ticket Rotation
+   * Sticky Keys
+
+### Strategy
 
 ### Group Dynamics
 
 A large portion of the competition is all about how you interact with you team during a stressful event like this. It's hard enough to work in a group in a normal situation but when your team is in a high stake environment it can easily lead to group conflicts. During CCDC the most important thing for every person to keep in mind is to stay calm. The competition is attempting to put you into a situation where you are in a losing battle against hackers so you have to learn to react well when things are not going well. This is particularly important because it's easy to affect how the rest of the team reacts to problems if multiple people are reacting in the same way. At the end of the first year I competitive in CCDC the team advisor for our room told us we were the only team in the entire competition to be smiling and laughing. Telling us that was a valuable skill to be able to not let the things that aren't working your way affect your own mood and in turn your teams'.
 
 
-### 
+### Conclusion
