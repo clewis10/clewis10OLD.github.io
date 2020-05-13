@@ -14,8 +14,8 @@ image:
 # CCDC Reflection
 
 ### The Coliegate Cyber Defense Competition
-<!-- 
-After 4 years of competing in CCDC, I have gained many experiences and knowledge in handling of active incident response with attackers on our network. To give a brief explanation of the Collegiate Cyber Defense Competition to those that might not know, it’s a competition that pits teams of 8 against each other to see who can maintain service uptime and business operations. The competition starts with a scenario where a mock company has been comprised and we must step in to handle the situation why professional penetration testers are attacking all the teams. This last year I got the opportunity to the team captain for Western although with the COVID situation the entire competition was significantly modified. With all that, I would like to reflect on the competition (wildcard vs previous years), important skills, recommendations for preparing and working as the captain. 
+
+After 4 years of competing in CCDC, I have gained many experiences and learned a lot in handling of active incident response with attackers on our network. To give a brief explanation of the Collegiate Cyber Defense Competition to those that might not know, it’s a competition that pits teams of 8 against each other to see who can maintain service uptime and business operations. The competition starts with a scenario where a mock company has been comprised and we must step in to handle the situation why professional penetration testers are attacking all the teams. This last year I got the opportunity to the team captain for Western although with the COVID situation the entire competition was significantly modified. With all that, I would like to reflect on the competition (wildcard vs previous years), important skills, recommendations for preparing and working as the captain. 
 
 ### The Competition
 
@@ -25,18 +25,25 @@ I want to with saying I absolutely love CCDC and it has taught me so much during
 
 Getting ready for the competition must be given adequate time and it’s extremely important to make sure everyone on the team is doing their part. We head practices every week during fall and winter, ramping practices up as we got closer to the competition. On top of that everyone was supposed to be doing extra tasks individual, but I think I did a poor job of laying out expectations and requirements because it was clear not everyone stayed accountable. This was the hardest aspect of leadership to me because having to check in and check peoples work to make sure they were doing it felt odd to me, but it became easier through the school year. 
 
-Concepts to know:
+#### Concepts to know:
 * Windows / Linux Operation Structure
 * Firewalls
 * File Shares
 * * SMB
 * * SAMBA
 
-Tasks to do regularly:
+#### Tasks to do regularly:
 * Practice Hardening Guides
 * Setting up Wordpress (Linux / Windows)
 * Swapping Services to knew machines
 * Advance Hardening
-* * Eternal Blue
+   * Eternal Blue
 * * Ticket Rotation
-* * Sticky Keys -->
+* * Sticky Keys
+
+### Group Dynamics
+
+A large portion of the competition is all about how you interact with you team during a stressful event like this. It's hard enough to work in a group in a normal situation but when your team is in a high stake environment it can easily lead to group conflicts. During CCDC the most important thing for every person to keep in mind is to stay calm. The competition is attempting to put you into a situation where you are in a losing battle against hackers so you have to learn to react well when things are not going well. This is particularly important because it's easy to affect how the rest of the team reacts to problems if multiple people are reacting in the same way. At the end of the first year I competitive in CCDC the team advisor for our room told us we were the only team in the entire competition to be smiling and laughing. Telling us that was a valuable skill to be able to not let the things that aren't working your way affect your own mood and in turn your teams'.
+
+
+### 
